@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="title_app_name">Mi Primera Aplicación DIO</string>
+    <string name="title_name">Nombre:</string>
+    <string name="name">Marcelo Claro</string>
+    <string name="title_course">Curso:</string>
+    <string name="course">Santander Bootcamp 2023 - Móvil Kotlin</string>
+</resources>
